@@ -5,7 +5,13 @@
 
  ### My name is Mohammad Pesraklou and im 21 years old.i'm a front end Developer living in Iran chasing my goal and building my career path.im currentlu focusing on my skills and knowledge
 
-### Skills:  REACT/ Next.js  / Mui / JS / HTML / CSS
+## Skills: 
+* ⚛️ React
+* ⚛️ Next.js
+* 🟨 Java Script
+* 🟦 Material-ui
+* 🟪 Graphql
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-pesaraklou)](https://github.com/anuraghazra/github-readme-stats)
 
