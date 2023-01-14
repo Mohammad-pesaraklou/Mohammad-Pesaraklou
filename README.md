@@ -1,7 +1,8 @@
+
+<img src='https://user-images.githubusercontent.com/102437630/212471856-ba9038ce-2f5a-4646-9658-74b857d25367.png' alt='github' height='200' width='100%'>
+
 # Hi there 👋,my name is Mohammad
 ## i'm Jr Front-End Developer
-
-<img src='https://user-images.githubusercontent.com/102437630/212471856-ba9038ce-2f5a-4646-9658-74b857d25367.png' alt='github' height='100' width='500'>
 
 #About Me
 
