@@ -24,7 +24,7 @@ My name is Mohammad Pesraklou and im 21 years old.i'm a front end Developer livi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-pesaraklou&show_icons=true&theme=tokyonight)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohammad-pesaraklou) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammad-pesaraklou) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahammad-pesraklou-jfd/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/._mhwmd6/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/._mhwmd6/)  
 
