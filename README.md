@@ -1,7 +1,7 @@
 # Hi there 👋,my name is Mohammad
 ## i'm Jr Front-End Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/102437630/212471856-ba9038ce-2f5a-4646-9658-74b857d25367.png' alt='github' height='100'>]
+[<img src='https://user-images.githubusercontent.com/102437630/212471856-ba9038ce-2f5a-4646-9658-74b857d25367.png' alt='github' height='100'>]
 
 #About Me
 
