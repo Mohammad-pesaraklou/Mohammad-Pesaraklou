@@ -21,7 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-pesaraklou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohammad-pesaraklou&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
