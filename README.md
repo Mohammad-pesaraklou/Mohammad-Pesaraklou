@@ -1,4 +1,6 @@
-# 💫 About Me:
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/c35131bf-7dc1-4718-a241-465b10cf7185" />
+
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/0a30cb7e-fa91-4d69-bef3-656bcd9b2058" /># 💫 About Me:
 🚀 I’m currently working on<br>Building scalable front-end applications with React, Next.js, and modern UI libraries. Also improving my Node.js & Express skills for better back-end integration.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, React-based applications, and full-stack web development with Next.js & Node.js.<br><br>💡 I’m looking for help with<br>Advanced backend architectures, performance optimization, and best practices in large-scale applications.<br><br>🌱 I’m currently learning<br>Deep-diving into Node.js, Express, and API development to strengthen my full-stack capabilities.<br><br>💬 Ask me about<br>Front-end development, React, Next.js, UI/UX best practices, and optimizing web applications for performance.<br><br>
 
 ## 🌐 Socials:
@@ -12,7 +14,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Mohammad-pesaraklou&theme=dark" alt="Isometric Commit Calendar" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Mohammad-Pesaraklou&theme=dark" alt="Isometric Commit Calendar" />
 </div>
 
 <p align="center">
@@ -20,6 +22,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-pesaraklou&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-pesaraklou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+
 
 
 <br clear="both">
