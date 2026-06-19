@@ -35,10 +35,15 @@ Front-end architecture, state management strategies (**Zustand & Redux**), respo
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Mohammad-Pesaraklou&theme=dark" alt="Isometric Commit Calendar" />
 </div>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-pesaraklou&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-pesaraklou&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-pesaraklou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Pesaraklou&theme=dark&show_icons=true&locale=en&layout=compact" alt="Mohammad's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Pesaraklou&theme=dark&layout=compact&langs_count=7" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Pesaraklou&theme=dark" alt="GitHub Streak" height="150" />
 </p>
 
 ## 🍿 Beyond Coding (Anime Favorites)
