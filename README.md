@@ -1,7 +1,20 @@
 <img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/c35131bf-7dc1-4718-a241-465b10cf7185" />
 
 # 💫 About Me:
-🚀 I’m currently working on<br>Building scalable front-end applications with React, Next.js, and modern UI libraries. Also improving my Node.js & Express skills for better back-end integration.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, React-based applications, and full-stack web development with Next.js & Node.js.<br><br>💡 I’m looking for help with<br>Advanced backend architectures, performance optimization, and best practices in large-scale applications.<br><br>🌱 I’m currently learning<br>Deep-diving into Node.js, Express, and API development to strengthen my full-stack capabilities.<br><br>💬 Ask me about<br>Front-end development, React, Next.js, UI/UX best practices, and optimizing web applications for performance.<br><br>
+🚀 **I’m currently working on**  
+Building scalable, high-performance front-end architectures with **React & Next.js**, managing complex data workflows, and integrating cutting-edge **AI technologies** into production-ready platforms[cite: 2].
+
+🤝 **I’m looking to collaborate on**  
+Advanced Next.js ecosystems, open-source tools, full-stack architectures, and performance-critical web applications[cite: 2].
+
+💡 **I’m looking for help with**  
+Deepening my knowledge in large-scale system design, advanced CI/CD optimization, and cutting-edge software architecture patterns.
+
+🌱 **I’m currently learning**  
+Exploring the depths of Node.js, microservices alignment, and optimizing Core Web Vitals for flawless user experiences[cite: 2].
+
+💬 **Ask me about**  
+Front-end architecture, state management strategies (**Zustand & Redux**), responsive UI/UX engineering, and microservice integration[cite: 2].
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmemamdd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mohammad.ps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmdpsr6@gmail.com) 
@@ -10,7 +23,12 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js-logoColor=white)   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,nodejs,express,mongodb,tailwind,materialui,figma,jest,git,github,vercel,netlify,githubactions" />
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -23,11 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-pesaraklou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+## 🍿 Beyond Coding (Anime Favorites)
+<p align="left">
+  <img src="https://img.shields.io/badge/Naruto-%23FF6600.svg?style=flat-square&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hunter_x_Hunter-%23000000.svg?style=flat-square&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainsaw_Man-%23FF3E3E.svg?style=flat-square&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vinland_Saga-%23A0522D.svg?style=flat-square&logo=crunchyroll&logoColor=white" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
